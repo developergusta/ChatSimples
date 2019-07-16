@@ -1,0 +1,1 @@
+Para funcionar o projeto, será necessário abri-lo dentro de uma instância de Virtual Machine com o comando "sudo node app.js" e abrir o endereço IP externo que é indicado na plataforma na qual foi feito a instância de VM
